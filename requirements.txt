@@ -1,0 +1,7 @@
+Flask
+yfinance
+matplotlib
+torch
+numpy
+pandas
+plotly
